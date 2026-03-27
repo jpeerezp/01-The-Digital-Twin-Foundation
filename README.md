@@ -12,6 +12,8 @@
 
 The purpose of this section is to establish the baseline for a full digital analysis of every athlete in the squad. By synthesizing physical, tactical, and cognitive data, we create a high-fidelity Digital Twin. This baseline acts as the absolute reference point; without these pillars, the system cannot accurately measure "decay" or "recovery" in Section 02. 
 
+---
+
 ## Chain Diagram
 
 ```
@@ -30,6 +32,8 @@ New Player Asset Onboarding
    P04 · The Cognitive Pillar      (Neural Snap, Emotional Resilience)
 ```
 
+---
+
 ## Human-in-the-Loop Points
 
 | Step | Human action required |
@@ -38,6 +42,8 @@ New Player Asset Onboarding
 | P02 output | Lead Sports Scientist validates the physical thresholds. |
 | P03 output | Tactical Analyst confirms the Game Model aligns with the player's profile. |
 | P03 output | Neuro-Analyst approves the baseline ""Neural Snap"" scores.|
+
+---
 
 ## Prompts
 
