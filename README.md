@@ -43,7 +43,7 @@ New Player Asset Onboarding
 
 | File | Prompt | Status |
 |------|--------|--------|
-| [P01-Creation-of-a-Digital-Twin.md] | A visualization of a Digital Twin | ✅ Tested — v1.2 |
-| [P02-The-Physical-Pillar.md] | Introducing the physical data | ✅ Tested — v1.1 |
-| [P03-The-Technical-and-Tactical-Pillars.md] | Introducing the technical and tactical data | ✅ Tested — v1.0 |
-| [P04-The-Cognitive-and-Emotional-Pillars.md]| Introducing the cognitive and emotional data | ✅ Tested — v1.0 |
+| `[P01-Creation-of-a-Digital-Twin.md] | A visualization of a Digital Twin | ✅ Tested — v1.2 |
+| `[P02-The-Physical-Pillar.md]` | Introducing the physical data | ✅ Tested — v1.1 |
+| `[P03-The-Technical-and-Tactical-Pillars.md]` | Introducing the technical and tactical data | ✅ Tested — v1.0 |
+| `[P04-The-Cognitive-and-Emotional-Pillars.md]`| Introducing the cognitive and emotional data | ✅ Tested — v1.0 |
